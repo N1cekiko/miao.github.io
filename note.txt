@@ -1,0 +1,50 @@
+---
+title: Hello Pigger
+date: 2019-04-08
+author: Tina He
+---
+
+# hello pigger
+
+- my first pigger
+
+## git 搭建在github服务器下的代码管理平台？
+
+- @[http://210.75.252.89:3000/] 实验室的git
+- @[https://wenmeiyu.github.io/writer/posts/demo/index.html]yo-yo的pigger笔记
+
+        试一试代码？？(8个空格）表示代码渲染 成功了
+
+''表示链接，可以插入图片和网址
+注意每个段落之间需要空行
+ 反单引号普通高亮  这个符号是~符号下面那个英文字符
+ 
+## 近期要学习的课程
+
+### 口语
+
+- 7分班
+
+- Frank
+
+- 趴趴口语
+
+### 单词
+
+- 万词班
+
+### 阅读
+
+- 九分达人
+
+### 听力
+
+- 趴趴听力
+
+### 写作
+
+- 杜仕明
+
+- 趴趴写作
+ 
+ 
